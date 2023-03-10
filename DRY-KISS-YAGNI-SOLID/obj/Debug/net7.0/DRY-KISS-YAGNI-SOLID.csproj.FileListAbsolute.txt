@@ -1,0 +1,15 @@
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/bin/Debug/net7.0/DRY-KISS-YAGNI-SOLID
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/bin/Debug/net7.0/DRY-KISS-YAGNI-SOLID.deps.json
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/bin/Debug/net7.0/DRY-KISS-YAGNI-SOLID.runtimeconfig.json
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/bin/Debug/net7.0/DRY-KISS-YAGNI-SOLID.dll
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/bin/Debug/net7.0/DRY-KISS-YAGNI-SOLID.pdb
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.csproj.AssemblyReference.cache
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.AssemblyInfoInputs.cache
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.AssemblyInfo.cs
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.csproj.CoreCompileInputs.cache
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.dll
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/refint/DRY-KISS-YAGNI-SOLID.dll
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.pdb
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/DRY-KISS-YAGNI-SOLID.genruntimeconfig.cache
+/home/q/Documents/University/3 grade/PPA/WildStool-HomeWorks/DRY-KISS-YAGNI-SOLID/obj/Debug/net7.0/ref/DRY-KISS-YAGNI-SOLID.dll
