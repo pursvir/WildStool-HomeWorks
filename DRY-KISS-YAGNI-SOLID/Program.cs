@@ -9,9 +9,9 @@ namespace Task1_2
 {
     class StringList
     {
-        private string[] strList;
-        private int currentIndex = 0;
-        private const int listSize = 100;
+        string[] strList;
+        int currentIndex = 0;
+        const int listSize = 100;
 
         public StringList()
         {
