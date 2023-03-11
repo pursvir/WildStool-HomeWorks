@@ -9,9 +9,9 @@ namespace Task1_2
 {
     class StringList
     {
-        string[] strList;
-        int currentIndex = 0;
-        const int listSize = 100;
+        private string[] strList;
+        private int currentIndex = 0;
+        private const int listSize = 100;
 
         public StringList()
         {
@@ -20,7 +20,7 @@ namespace Task1_2
 
         public void Insert(string str)
         {
-            if (currentIndex <= listSize - 1)
+            if (currentIndex < listSize)
             {
                 strList[currentIndex] = str;
                 currentIndex++;
@@ -33,7 +33,7 @@ namespace Task1_2
 
         public void Delete(int position)
         {
-            if ((position >= 0) && (position <= listSize - 1))
+            if ((position >= 0) && (position < listSize))
             {
                 for (int i = position; i < currentIndex; i++)
                 {
@@ -117,6 +117,8 @@ namespace Task1_2
                 Console.WriteLine(stringList.GetAt(i));
             }
             Console.WriteLine("");
+
+            Console.WriteLine(stringList.Search("fox..."));
         }
     }
 }
